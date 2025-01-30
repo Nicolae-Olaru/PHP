@@ -1,0 +1,1 @@
+We have three pages where we have a database (Mysql) connection and a session control page
